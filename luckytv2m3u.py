@@ -15,9 +15,11 @@ print("#EXTM3U")
 print("")
 
 for groups in data["groups"]:
-    #print(key["name"])
+    if groups["name"] == "Adultos" or groups["name"] == "Play Store de Listas":
+        continue
+
     for stations in groups["stations"]:
-        print("#EXTINF:-1, " + stations["name"].encode('utf-8').strip())
+        print("#EXTINF:-1, " + "tvg-logo=\"" + stations["image"].encode('utf-8').strip()  + "\"" + ", " + stations["name"].encode('utf-8').strip())
         print(stations["url"].encode('utf-8').strip())
         print("")
 
