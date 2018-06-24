@@ -19,7 +19,7 @@ for groups in data["groups"]:
         continue
 
     for stations in groups["stations"]:
-        print("#EXTINF:-1, " + "tvg-logo=\"" + stations["image"].encode('utf-8').strip()  + "\"" + ", " + stations["name"].encode('utf-8').strip())
+        print("#EXTINF:-1, " + stations["name"].encode('utf-8').strip())
         print(stations["url"].encode('utf-8').strip())
         print("")
 
