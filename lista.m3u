@@ -1,374 +1,374 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/1.png", La 1
-http://junio.luckytv.me/live/la1/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, La 1
+http://junio.luckytv.me/live/la1/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/2.png", La 2
-http://junio.luckytv.me/live/la2/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, La 2
+http://junio.luckytv.me/live/la2/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/3.png", Antena 3
-http://junio.luckytv.me/live/antena3/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Antena 3
+http://junio.luckytv.me/live/antena3/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/4.png", Cuatro
-http://junio.luckytv.me/live/cuatro/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Cuatro
+http://junio.luckytv.me/live/cuatro/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/5.png", Telecinco
-http://junio.luckytv.me/live/telecinco/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Telecinco
+http://junio.luckytv.me/live/telecinco/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/6.png", La Sexta
-http://junio.luckytv.me/live/lasexta/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, La Sexta
+http://junio.luckytv.me/live/lasexta/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/7.png", Dmax
-http://junio.luckytv.me/live/dmax/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Dmax
+http://junio.luckytv.me/live/dmax/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/8.png", Neox
-http://junio.luckytv.me/live/neox/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Neox
+http://junio.luckytv.me/live/neox/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/9.png", Nova
-https://atresplayerp-i.akamaized.net/geonovampp/master.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Nova
+https://atresplayerp-i.akamaized.net/geonovampp/master.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/10.png", Energy
-http://junio.luckytv.me/live/energy/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Energy
+http://junio.luckytv.me/live/energy/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/13.png", 13 tv
+#EXTINF:-1, 13 tv
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/14.png", Clan
+#EXTINF:-1, Clan
 ITCLqGA98S/GRgPtyutVXTwzJAQ60c1lzKVWG5JMX/M+aNMNxvGAKuVJxSEezL5t
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/15.png", Disney Channel
-http://junio.luckytv.me/live/disneychannel/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Disney Channel
+http://junio.luckytv.me/live/disneychannel/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/16.png", FDF
-http://junio.luckytv.me/live/fdf/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, FDF
+http://junio.luckytv.me/live/fdf/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/17.png", Boing
-http://junio.luckytv.me/live/boing/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Boing
+http://junio.luckytv.me/live/boing/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/18.png", Divinity
-http://junio.luckytv.me/live/divinity/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Divinity
+http://junio.luckytv.me/live/divinity/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/20.png", Mega
-http://junio.luckytv.me/live/mega/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Mega
+http://junio.luckytv.me/live/mega/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/59.png", Atreseries *
+#EXTINF:-1, Atreseries *
 http://atresplayers-i.akamaized.net/geoa3seriesmpp/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/12.png", Paramount Channel
-http://junio.luckytv.me/live/paramountchannel/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Paramount Channel
+http://junio.luckytv.me/live/paramountchannel/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/19.png", Teledeporte
-http://junio.luckytv.me/live/teledeporte/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Teledeporte
+http://junio.luckytv.me/live/teledeporte/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/74.png", Ten
-http://junio.luckytv.me/live/ten/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Ten
+http://junio.luckytv.me/live/ten/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/87.png", Dkiss
-http://junio.luckytv.me/live/dkiss/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Dkiss
+http://junio.luckytv.me/live/dkiss/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/75.png", Bemad
-http://junio.luckytv.me/live/bemad/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Bemad
+http://junio.luckytv.me/live/bemad/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/56.png", Real Madrid
+#EXTINF:-1, Real Madrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/71.png", Gol
-http://junio.luckytv.me/live/goltv/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Gol
+http://junio.luckytv.me/live/goltv/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/33.png", Movistar Series
-http://junio.luckytv.me/live/mseries/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Series
+http://junio.luckytv.me/live/mseries/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/70.png", Movistar Series Xtra
+#EXTINF:-1, Movistar Series Xtra
 http://playlist.onlybest.tv/en/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/568/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/34.png", Fox
-http://junio.luckytv.me/live/fox/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Fox
+http://junio.luckytv.me/live/fox/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/36.png", Fox Life
-http://junio.luckytv.me/live/foxlife/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Fox Life
+http://junio.luckytv.me/live/foxlife/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/35.png", Axn
-http://junio.luckytv.me/live/axn/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Axn
+http://junio.luckytv.me/live/axn/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/43.png", Axn White
+#EXTINF:-1, Axn White
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/37.png", Tnt
-http://junio.luckytv.me/live/tnt/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Tnt
+http://junio.luckytv.me/live/tnt/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/42.png", Comedy Central
-http://junio.luckytv.me/live/comedycentral/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Comedy Central
+http://junio.luckytv.me/live/comedycentral/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/38.png", Calle 13
-http://junio.luckytv.me/live/calle13/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Calle 13
+http://junio.luckytv.me/live/calle13/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/89.png", Dark
-http://junio.luckytv.me/live/dark/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Dark
+http://junio.luckytv.me/live/dark/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/76.png", Amc
-http://junio.luckytv.me/live/amc/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Amc
+http://junio.luckytv.me/live/amc/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/81.png", Syfy
-http://junio.luckytv.me/live/syfy/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Syfy
+http://junio.luckytv.me/live/syfy/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/39.png", Cosmos
-http://junio.luckytv.me/live/cosmo/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Cosmos
+http://junio.luckytv.me/live/cosmo/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/54.png", Mtv
-http://junio.luckytv.me/live/mtv/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Mtv
+http://junio.luckytv.me/live/mtv/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/21.png", #0
-http://junio.luckytv.me/live/plus11/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, #0
+http://junio.luckytv.me/live/plus11/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/AMolnER.jpg", Fama a Bailar
+#EXTINF:-1, Fama a Bailar
 http://www.youtube.com/watch?v=ZODOgks3dMI
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/69.png", Movistar Estrenos
-http://junio.luckytv.me/live/mestrenos/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Estrenos
+http://junio.luckytv.me/live/mestrenos/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/117.png", Movistar Disney
-http://junio.luckytv.me/live/mdisney/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Disney
+http://junio.luckytv.me/live/mdisney/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/32.png", Movistar Xtra
-http://junio.luckytv.me/live/mxtra/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Xtra
+http://junio.luckytv.me/live/mxtra/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/22.png", Movistar Accion
-http://junio.luckytv.me/live/maccion/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Accion
+http://junio.luckytv.me/live/maccion/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/24.png", Movistar Comedia
-http://junio.luckytv.me/live/mcomeida/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Comedia
+http://junio.luckytv.me/live/mcomeida/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/23.png", Movistar Dcine
-http://junio.luckytv.me/live/mdcine/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Dcine
+http://junio.luckytv.me/live/mdcine/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/98.png", Tmc
-http://junio.luckytv.me/live/tcm/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Tmc
+http://junio.luckytv.me/live/tcm/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/44.png", Hollywood
-http://junio.luckytv.me/live/hollywood/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Hollywood
+http://junio.luckytv.me/live/hollywood/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/80.png", BeinSport
-http://junio.luckytv.me/live/beinsportesp/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, BeinSport
+http://junio.luckytv.me/live/beinsportesp/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/25.png", BeinLaLiga
-http://junio.luckytv.me/live/beinlaliga/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, BeinLaLiga
+http://junio.luckytv.me/live/beinlaliga/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/25.png", BeinLaLiga Opc.2
-http://junio.luckytv.me/live/verliga/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, BeinLaLiga Opc.2
+http://junio.luckytv.me/live/verliga/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/26.png", Movistar Partidazo
-http://junio.luckytv.me/live/partidazo/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Partidazo
+http://junio.luckytv.me/live/partidazo/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/40.png", LaLiga Tv
-http://junio.luckytv.me/live/ligatv/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, LaLiga Tv
+http://junio.luckytv.me/live/ligatv/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/27.png", Movistar Futbol
-http://junio.luckytv.me/live/mfutbol/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Futbol
+http://junio.luckytv.me/live/mfutbol/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://files.laliga.es/seccion_logos/laliga-123-h-16-9.jpg", LaLiga 123
-http://junio.luckytv.me/live/liga123/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, LaLiga 123
+http://junio.luckytv.me/live/liga123/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/71.png", Gol
-http://junio.luckytv.me/live/goltv/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Gol
+http://junio.luckytv.me/live/goltv/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/78.png", Eurosport 1
-http://junio.luckytv.me/live/eurosport/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Eurosport 1
+http://junio.luckytv.me/live/eurosport/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/83.png", Eurosport 2
-http://junio.luckytv.me/live/eurosport2/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Eurosport 2
+http://junio.luckytv.me/live/eurosport2/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/56.png", Real Madrid
+#EXTINF:-1, Real Madrid
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/55.png", Barsa TV
-http://junio.luckytv.me/live/barcatv/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Barsa TV
+http://junio.luckytv.me/live/barcatv/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/29.png", Movistar Deportes 1
-http://junio.luckytv.me/live/plusdeportes/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Deportes 1
+http://junio.luckytv.me/live/plusdeportes/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/30.png", Movistar Deportes 2
-http://junio.luckytv.me/live/deporte2/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Deportes 2
+http://junio.luckytv.me/live/deporte2/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/73.png", Movistar Formula 1
-http://junio.luckytv.me/live/f1_nuevo/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Formula 1
+http://junio.luckytv.me/live/f1_nuevo/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/73.png", Movistar Formula 1 Opc.2
-http://junio.luckytv.me/live/f1_nuevo/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Formula 1 Opc.2
+http://junio.luckytv.me/live/f1_nuevo/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/72.png", Movistar MotoGP
-http://motos.luckytv.me/live/motogp/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar MotoGP
+http://motos.luckytv.me/live/motogp/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/72.png", Movistar MotoGP Opc.2
-http://junio.luckytv.me/live/moto/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar MotoGP Opc.2
+http://junio.luckytv.me/live/moto/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/28.png", Movistar Golf
-http://junio.luckytv.me/live/golf/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Movistar Golf
+http://junio.luckytv.me/live/golf/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/19.png", Teledeporte
-http://junio.luckytv.me/live/teledeporte/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Teledeporte
+http://junio.luckytv.me/live/teledeporte/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/41.png", Caza y Pesca
-http://junio.luckytv.me/live/cazaypesca/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Caza y Pesca
+http://junio.luckytv.me/live/cazaypesca/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/31.png", Toros Tv
-http://junio.luckytv.me/live/toro/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Toros Tv
+http://junio.luckytv.me/live/toro/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/66.png", Nickelodeon
-http://junio.luckytv.me/live/nick/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Nickelodeon
+http://junio.luckytv.me/live/nick/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://royalwholesalecandy.com/media/catalog/category/disney_jr_1.jpg", Disney Junior
+#EXTINF:-1, Disney Junior
 http://playlist.onlybest.tv/en/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/604/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/64.png", Disney XD
-http://junio.luckytv.me/live/disneyxd/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Disney XD
+http://junio.luckytv.me/live/disneyxd/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/15.png", Disney Channel
-http://junio.luckytv.me/live/disneychannel/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Disney Channel
+http://junio.luckytv.me/live/disneychannel/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/17.png", Boing
-http://junio.luckytv.me/live/boing/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Boing
+http://junio.luckytv.me/live/boing/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://p.apk4fun.com/4e/8c/5c/com.nick.android.nickjr-featured.jpg", Nick JR
+#EXTINF:-1, Nick JR
 http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/234/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/14.png", Clan *
+#EXTINF:-1, Clan *
 http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/5014.m3u8
 
-#EXTINF:-1, tvg-logo="http://http:2.mlstatic.com/kit-imprimible-baby-tv-junios-disenos-candy-bar-D_NQ_NP_424621-MLV20808288562_072016-F.jpg", Baby
+#EXTINF:-1, Baby
 http://78.142.29.72:2500/live/ZFPrf5gDtm/SJXFyYT8o4/9242.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.formulatv.com/images/noticias/41500/41534/1_f2f220ed12.jpg", TV 3
+#EXTINF:-1, TV 3
 http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="http://cloud10.todocoleccion.online/coleccionismo-pegatinas/tc/2016/04/28/15/56481948.jpg", Super 33
+#EXTINF:-1, Super 33
 http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.sporthuesca.com/wp-content/uploads/2015/05/ESPORT3.jpg", Esport 3
+#EXTINF:-1, Esport 3
 http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="http://img.europapress.es/fotoweb/fotonoticia_20170908151757_640.jpg", Telemadrid
+#EXTINF:-1, Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.underconsideration.com/brandnew/archives/telemadrid_logo_la_otra.jpg", LaOtra
+#EXTINF:-1, LaOtra
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.civismo.org/files/intereconomia-tv.png", Intereconomia
+#EXTINF:-1, Intereconomia
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.trecebits.com/wp-content/uploads/2018/05/castilla-la-mancha-media-390x205.jpg", Castilla la Mancha media
+#EXTINF:-1, Castilla la Mancha media
 http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/index-s32.m3u8
 
-#EXTINF:-1, tvg-logo="http://4.bp.blogspot.com/-a77GFHGQMwY/VZK8B9WkrHI/AAAAAAAAH_0/wkrbheXNJCw/s1600/canal-ejunioadura-sat.jpg", Ejunioadura
+#EXTINF:-1, Ejunioadura
 http://hlstv.canalejunioadura.es/livetv/multistream.smil/.m3u8
 
-#EXTINF:-1, tvg-logo="http://dircomfidencial.com/wp-content/uploads/2017/01/aragontv.jpg", Aragon tv
+#EXTINF:-1, Aragon tv
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 
-#EXTINF:-1, tvg-logo="http://i.ytimg.com/vi/W252pXl0D8g/maxresdefault.jpg", 7 RM Murcia
+#EXTINF:-1, 7 RM Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.vigoalminuto.com/wp-content/uploads/2012/04/logo-tvg.jpg", Galicia tv
+#EXTINF:-1, Galicia tv
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="http://maghu-eguzkilore.com/wp-content/uploads/2017/08/ENTREVISTA-.jpg", Etb Sat
+#EXTINF:-1, Etb Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.diesl.com/wp-content/uploads/2014/12/csur.png", Canal Sur Andalucia
+#EXTINF:-1, Canal Sur Andalucia
 http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.brandemia.org/sites/default/files/beteve-logo-brandemia.jpg", beteve
+#EXTINF:-1, beteve
 http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
 
-#EXTINF:-1, tvg-logo="http://www.ceceib.es/wp-content/uploads/2017/02/IB3226229.jpg", baleares ib3
+#EXTINF:-1, baleares ib3
 http://www.youtube.com/watch?v=k7w4YxyqgEU
 
-#EXTINF:-1, tvg-logo="http://pridechanneltv.com/images/burger-badge.png", Pride tv
+#EXTINF:-1, Pride tv
 http://178.132.6.97/PrideTV/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.101tv.es/galeria/video/En-101-tv-QUEREMOS-MALAGA.jpg", 101 tv Malaga
+#EXTINF:-1, 101 tv Malaga
 http://cls2.todostreaming.eu/101tv/livestream101Tv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.heribertocruz.es/wp-content/uploads/2017/11/tvc.jpg", Canaria tv
+#EXTINF:-1, Canaria tv
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/49.png", National Geographic **
-http:///http://163.172.80.201/live/nationalgeo/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, National Geographic **
+http:///http://163.172.80.201/live/nationalgeo/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/48.png", National Wild
-http://junio.luckytv.me/live/natgeowild/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, National Wild
+http://junio.luckytv.me/live/natgeowild/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/46.png", Historia
-http://junio.luckytv.me/live/historia/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Historia
+http://junio.luckytv.me/live/historia/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/zG4q5Zv.jpg", Blaze
-http://junio.luckytv.me/live/blaze/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Blaze
+http://junio.luckytv.me/live/blaze/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/61.png", Crimen & Investigación
-http://junio.luckytv.me/live/ci/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Crimen & Investigaci贸n
+http://junio.luckytv.me/live/ci/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/45.png", Canal Cocina
-http://junio.luckytv.me/live/cocina/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Canal Cocina
+http://junio.luckytv.me/live/cocina/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://socassat.com/wp-content/uploads/2015/07/1medium.jpg", Iberalia
+#EXTINF:-1, Iberalia
 http://playlist.onlybest.tv/en/channel/d3868b0930104dfc477b435d4bf18b4f/603/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/47.png", Odisea
-http://junio.luckytv.me/live/odisea/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Odisea
+http://junio.luckytv.me/live/odisea/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="https://i0.wp.com/dragontvapp.com/wp-content/uploads/dragontv/51.png", Discovery Channel
-http://junio.luckytv.me/live/discoverychannel/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Discovery Channel
+http://junio.luckytv.me/live/discoverychannel/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://images.indianexpress.com/2017/08/hbo-copy1.jpg", HBO
+#EXTINF:-1, HBO
 http://www.rapifutbol.tv/Insert.jsf?id=779
 
-#EXTINF:-1, tvg-logo="http://4.bp.blogspot.com/-VU58EUC2eB4/T3Kk9CfXJeI/AAAAAAAABgU/hKjjVdXCiP0/s320/azteca7.jpeg", Azteza 7
-http://junio.luckytv.me/live/azteca7/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Azteza 7
+http://junio.luckytv.me/live/azteca7/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://tynmedia.com/tynmag/wp-content/uploads/sites/3/2016/11/telefe.png", Telefe
-http://junio.luckytv.me/live/telefe/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Telefe
+http://junio.luckytv.me/live/telefe/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://i.ytimg.com/vi/-CrcbrdxwsM/maxresdefault.jpg", Telemundo
-http://junio.luckytv.me/live/telemundo/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Telemundo
+http://junio.luckytv.me/live/telemundo/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://bolsamexicanadevalores.com.mx/wp-content/uploads/univision.jpg", Univision
-http://junio.luckytv.me/live/univision/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Univision
+http://junio.luckytv.me/live/univision/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://i.televisa.com/2017/04/tlnovelas2016_main_color.jpg", Tlnovelas
-http://junio.luckytv.me/live/tlnovelas/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Tlnovelas
+http://junio.luckytv.me/live/tlnovelas/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://www.telecanales.tv/wp-content/uploads/2018/02/Ver-TyC-Sports-EN-VIVO-y-en-directo-Online-Gratis-600x330.png", Tyc Sport
-http://junio.luckytv.me/live/tycsports/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Tyc Sport
+http://junio.luckytv.me/live/tycsports/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://parentesis.com/imagesPosts/tnt.jpg", Tnt Latino
-http://junio.luckytv.me/live/tntlatino/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Tnt Latino
+http://junio.luckytv.me/live/tntlatino/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://news.doddleme.com/wp-content/uploads/2013/09/universal-logo.png", Universal TV
-http://junio.luckytv.me/live/universal/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Universal TV
+http://junio.luckytv.me/live/universal/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://www.motoresenpunta.com/wp-content/uploads/2017/04/LOGO-VTV1-811x400.jpg", Vtv
-http://junio.luckytv.me/live/vtv/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Vtv
+http://junio.luckytv.me/live/vtv/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://www.identityschoolofacting.com/wp-content/uploads/2018/04/cinemaxlogo.jpg", Cinemax
-http://junio.luckytv.me/live/cinemax/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Cinemax
+http://junio.luckytv.me/live/cinemax/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg", Fox Movie
-http://junio.luckytv.me/live/verFOXMOVIdad954a1715ec3f7506d/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Fox Movie
+http://junio.luckytv.me/live/verFOXMOVIdad954a1715ec3f7506d/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/600-movies/625-foxactionmovieshd.png", Fox Accion
-http://junio.luckytv.me/live/foxaccion/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Fox Accion
+http://junio.luckytv.me/live/foxaccion/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://cdn1.clickthecity.com/images/articles/content/560107267f7419.14808149.jpg", Axn Latino
-http://junio.luckytv.me/live/veraxnlatbdc8f93d0e0293ce59869/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Axn Latino
+http://junio.luckytv.me/live/veraxnlatbdc8f93d0e0293ce59869/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://vertelevisor.com/logos/Fox-latino.jpg", Fox Latino
-http://junio.luckytv.me/live/foxlatino/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Fox Latino
+http://junio.luckytv.me/live/foxlatino/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://tvonline.com.do/images/sobiplus/entries/118/img_nba-online-tv-logo.jpg", Nba
-http://junio.luckytv.me/live/nba/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Nba
+http://junio.luckytv.me/live/nba/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_canal_caracol.jpg", Caracol
-http://junio.luckytv.me/live/caracol/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, Caracol
+http://junio.luckytv.me/live/caracol/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 
-#EXTINF:-1, tvg-logo="http://d2z8v02fmnep0k.cloudfront.net/sites/elobservatodo.cl/files/imagecache/380x285/imagen_noticia/cdf_1.jpg", CDF *
-http://junio.luckytv.me/live/cdf/index.m3u8?md5=qQojdhyFWsdXQ4q9pgNugQ&expires=1529892183
+#EXTINF:-1, CDF *
+http://junio.luckytv.me/live/cdf/index.m3u8?md5=pXnaDKW7A3OBS80HQJLG_Q&expires=1530407879
 

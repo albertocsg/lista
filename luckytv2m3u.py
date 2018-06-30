@@ -5,8 +5,12 @@ import json
 from pprint import pprint
 
 # leemos el json
-website = urllib.urlopen('http://luckytv.me') 
+website = urllib.urlopen('http://luckytv.me')
 siteData = website.read()
+
+# Quitamos los caracteres extranos del principio
+while (siteData[0:1] != "{"):
+    siteData = siteData[1:]
 
 # procesamos el json
 data = json.loads(siteData)
